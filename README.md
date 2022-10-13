@@ -1,4 +1,11 @@
-# JupyterLite Demo
+# Hello Python
+
+This project is based on the JupyterLite demo template.
+
+[Live site](https://dkessner.github.io/hello_python)
+
+
+## JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
